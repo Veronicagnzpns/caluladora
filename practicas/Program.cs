@@ -4,17 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HolaMundo
+namespace practicas
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            Practica1();
+            Practica2();
+            Practica3();
+
+        }
+        #region Practica1
+        static void Practica1()
+        {
             //Console.WriteLine("Hola Mundo!! Aprendiendo c#"); // com
             /*
              * comentario de bloque
              */
-            int edad=45;
+            int edad = 45;
             int alumnos = 24;
             string curso = "DEINT";
 
@@ -28,10 +36,16 @@ namespace HolaMundo
 
             const double PI = 3.14;
 
-            double area = Math.Pow(rad,2) * PI;
+            double area = Math.Pow(rad, 2) * PI;
 
             Console.WriteLine($"El área del círculo de radio {rad} es {area}");
 
         }
+        #endregion
+        #region Practica2
+        #endregion
+        #region Practica3
+        #endregion
+
     }
 }

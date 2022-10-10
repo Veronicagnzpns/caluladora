@@ -1,0 +1,3 @@
+C:\Users\2DAM\source\repos\practicas\practicas\obj\Debug\practicas.csproj.AssemblyReference.cache
+C:\Users\2DAM\source\repos\practicas\practicas\obj\Debug\practicas.csproj.SuggestedBindingRedirects.cache
+C:\Users\2DAM\source\repos\practicas\practicas\obj\Debug\practicas.csproj.CoreCompileInputs.cache
